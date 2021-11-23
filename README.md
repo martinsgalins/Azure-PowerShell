@@ -1,2 +1,2 @@
 # Azure-PowerShell
-Various PowwerShell scripts to manage Azure resources.
+Various PowerShell scripts to manage Azure resources.
